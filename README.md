@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mengistemahider@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3MbgOAH]
+- 📄 Know about my experiences https://bit.ly/3MbgOAH
 
 - ⚡ Fun fact **Love to keep up with UI trends**
 
