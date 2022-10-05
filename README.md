@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahider Mengiste</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **Meta front-endDeveloper Professional Certificate**
+- 🔭 I’m currently working on **Meta front-end Developer Professional Certificate**
 
 - 🌱 I’m currently learning **React, MERN stack**
 
