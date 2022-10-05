@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences https://bit.ly/3MbgOAH
 
-- ⚡ Fun fact **Love to keep up with UI trends**
+- ⚡ Fun fact **Love keeping up with UI trends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
